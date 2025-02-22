@@ -32,15 +32,21 @@
     color: #3674B5;
 }
 
-#data{
+.feed-data{
     border-top: 8px solid red;
     border-bottom: 8px solid red; 
     margin-top: 1rem;
+    padding: 1px;
     height: auto;
     width: auto;
 }
 
-#col{
-    height: 30%;
+.order-items{
+    margin: 1rem;
+    padding: 2rem;
+    background-color: #FFD95F;
+    width: fit-content;
 }
+
+
 
